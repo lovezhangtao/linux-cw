@@ -12,5 +12,5 @@ if [ -d $1 ] ; then
     if [ -d $1/res ] ; then
         rsync -a --delete $1/res deploy/$1
     fi
-    rsync -a --delete deploy/$1 x@10.10.12.160:/home/x/projects/coursesite/static/cw
+    rsync -a --delete deploy/$1 ../../coursesite/static/linuxcw
 fi
