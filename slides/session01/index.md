@@ -243,7 +243,7 @@ More than 600 distros, Any one could make
 > * [提问的智慧](https://lug.ustc.edu.cn/newwiki/doc/smart-questions)
 > * [提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions) 长版
 
-# 任务
+# 本周任务
 
 ## 安装
 
