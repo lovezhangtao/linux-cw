@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [介绍](jie_shao.md)
+* [在WIN7系统下装虚拟机](jie_shao.md)
 
